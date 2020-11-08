@@ -1,12 +1,14 @@
 # PS4HEN v3.0.2
 
 ## Features
+- todex x82
 - Homebrew Enabler
 - Jailbreak
 - Sandbox Escape
 - Debug Settings
 - External HDD Support
 - VR Support 4.0
+- VR Support Bypass
 - Remote Package Install
 - Rest Mode Support
 - External HDD Format 7.xx Support
